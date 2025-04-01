@@ -231,7 +231,7 @@
     "erc_exclusions": [
       [
         "no_connect_connected|2806700|901700|0bbaabd2-2048-4fd7-b2b8-76c5eecbefa5|e3b08300-9a17-47bc-9f5c-0301fe00ab46|/d26b879a-ad2a-41ae-bbd0-9e3e439085d9||",
-        "No connection. This pin can be left floating or connected to GND to allow better thermal contact tothe top-side plane."
+        ""
       ],
       [
         "pin_to_pin|1143000|685800|1a672b7b-f368-4a26-9eb8-231900794681|52cd93fd-4a06-4132-b608-bb21f18989c8|/d26b879a-ad2a-41ae-bbd0-9e3e439085d9/3a64f552-f64b-4f10-b15a-be32ca29c09b|/d26b879a-ad2a-41ae-bbd0-9e3e439085d9/3a64f552-f64b-4f10-b15a-be32ca29c09b|/d26b879a-ad2a-41ae-bbd0-9e3e439085d9/3a64f552-f64b-4f10-b15a-be32ca29c09b",
@@ -263,10 +263,6 @@
       ],
       [
         "pin_to_pin|1143000|711200|6aa66696-b0ad-488c-a186-d5dd8bc82596|1a672b7b-f368-4a26-9eb8-231900794681|/d26b879a-ad2a-41ae-bbd0-9e3e439085d9/f44aa092-c761-462f-a05a-a41f609a556b|/d26b879a-ad2a-41ae-bbd0-9e3e439085d9/f44aa092-c761-462f-a05a-a41f609a556b|/d26b879a-ad2a-41ae-bbd0-9e3e439085d9/f44aa092-c761-462f-a05a-a41f609a556b",
-        ""
-      ],
-      [
-        "pin_to_pin|1143000|736600|17bfa181-2177-4f69-a353-0db92c30e202|5d72813b-be11-44ca-872b-17e2caed2398|/d26b879a-ad2a-41ae-bbd0-9e3e439085d9/4a20ea62-3b5a-4f24-bcfb-658ef80c6019|/d26b879a-ad2a-41ae-bbd0-9e3e439085d9/4a20ea62-3b5a-4f24-bcfb-658ef80c6019|/d26b879a-ad2a-41ae-bbd0-9e3e439085d9/4a20ea62-3b5a-4f24-bcfb-658ef80c6019",
         ""
       ],
       [
