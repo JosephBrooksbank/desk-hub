@@ -3760,7 +3760,7 @@
 		)
 		(uuid "1375e9da-ccda-487a-a148-20dcb3700d69")
 	)
-	(text "Design Notes\n\n- differential impedance of 90Ohm\n- each differential pair should be 5*trace width apart \n- route all pairs on same layer, next to ground plane\n- avoid 90 degree bends, keep left and right bends equal\n- differential pairs should not exceed 50 mils relative distance\n"
+	(text "Design Notes\n\n- differential impedance of 90 Ohm\n- each differential pair should be 5*trace width apart \n- route all pairs on same layer, next to ground plane\n- avoid 90 degree bends, keep left and right bends equal\n- differential pairs should not exceed 50 mils relative distance\n"
 		(exclude_from_sim no)
 		(at 124.46 -11.43 0)
 		(effects
