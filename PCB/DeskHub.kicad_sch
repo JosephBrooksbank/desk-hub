@@ -41,7 +41,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" " ~"
+			(property "Datasheet" "~"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1182,16 +1182,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "ECS INC"
+			(property "Description" "The ECX-53B is a miniature SMD Crystal with a 3.2 x 5 mm footprint."
 				(at 0 0 0)
 				(effects
 					(font
@@ -1201,7 +1192,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "The ECX-53B is a miniature SMD Crystal with a 3.2 x 5 mm footprint."
+			(property "MF" "ECS INC"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8453,38 +8444,6 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 171.45 138.43) (xy 171.45 143.51) (xy 172.72 143.51) (xy 172.72 138.43)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-				(color 0 11 255 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 3ed435ec-d991-41c7-a616-7637b38526ce)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 171.45 151.13) (xy 171.45 156.21) (xy 172.72 156.21) (xy 172.72 151.13)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-				(color 0 11 255 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 649abc3a-6b04-435a-a1ed-07eb95898a26)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
 				(xy 172.72 125.73) (xy 172.72 130.81) (xy 173.99 130.81) (xy 173.99 125.73)
 			)
 			(stroke
@@ -8495,7 +8454,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 7481f741-13a2-48b6-a0b0-72bb64036a40)
+			(uuid 7cf0c979-1e14-4626-ae4d-95ee3dd31c21)
 		)
 	)
 	(rule_area
@@ -8511,7 +8470,39 @@
 			(fill
 				(type none)
 			)
-			(uuid ddf0eeed-f7a3-43ab-9a55-fcb76d56c1d6)
+			(uuid b8df1815-d8d4-48e7-b0c5-1cb02f3a6aec)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 171.45 138.43) (xy 171.45 143.51) (xy 172.72 143.51) (xy 172.72 138.43)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+				(color 0 11 255 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid d203046a-5138-4506-9b39-c3e66d4862f1)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 171.45 151.13) (xy 171.45 156.21) (xy 172.72 156.21) (xy 172.72 151.13)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+				(color 0 11 255 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid d8a66dc8-5223-43d9-8a1f-1621d1a9609b)
 		)
 	)
 	(netclass_flag ""
@@ -12755,7 +12746,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 29.21 26.67 0)
 			(effects
 				(font
