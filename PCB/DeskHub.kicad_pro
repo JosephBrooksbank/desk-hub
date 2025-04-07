@@ -543,10 +543,14 @@
         "schematic_color": "rgb(0, 0, 0)"
       },
       {
+        "clearance": 0.2032,
+        "diff_pair_gap": 0.3,
+        "diff_pair_width": 0.1704,
         "name": "HIGH SPEED",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)"
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1704
       }
     ],
     "meta": {
@@ -641,7 +645,7 @@
       },
       {
         "netclass": "5V",
-        "pattern": "*VBUS*"
+        "pattern": "*J*VBUS*"
       }
     ]
   },
