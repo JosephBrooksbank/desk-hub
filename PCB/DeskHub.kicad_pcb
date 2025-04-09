@@ -3326,7 +3326,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25903"
+		(property "LCSC" "C52923"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -4248,7 +4248,7 @@
 		(path "/e37fe2cf-16e3-4bb9-895a-c83d84bb90ad")
 		(sheetname "/")
 		(sheetfile "DeskHub.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.485 -0.735)
 			(end -1.485 0.735)
@@ -13290,7 +13290,7 @@
 		(path "/053d1977-762c-4d5f-99b1-becffced9878")
 		(sheetname "/")
 		(sheetfile "DeskHub.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.8 -0.735)
 			(end -1.485 -0.735)
