@@ -1,8 +1,8 @@
-Default	True	2.0	3
-1.1V	True	2.0	3
-3.3V	True	2.0	3
-5V	True	2.0	3
-BAD	True	2.0	3
-GND	True	2.0	3
-HIGH SPEED	True	2.0	3
-False	True	False
+Default	True	1.0	3
+1.1V	True	1.0	3
+3.3V	True	1.0	3
+5V	True	1.0	3
+BAD	True	1.0	3
+GND	True	1.0	3
+HIGH SPEED	True	1.0	3
+False	False	False

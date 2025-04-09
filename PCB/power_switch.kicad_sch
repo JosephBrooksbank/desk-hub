@@ -1628,7 +1628,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W"
+		(property "Footprint" "my_global:CAP_EEFCX0J151XR"
 			(at 138.1252 82.55 0)
 			(effects
 				(font
